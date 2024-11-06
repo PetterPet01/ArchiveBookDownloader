@@ -1,5 +1,6 @@
 # ArchiveBookDownloader
 A program to automatically borrow and download Internet Archive borrow-only books at maximum quality. Complete with a library that supports auto-sign-in, borrow and custom-made multi-connection download manager.
+Finished on 7/2022.
 
 # Credits
 PetterPet
