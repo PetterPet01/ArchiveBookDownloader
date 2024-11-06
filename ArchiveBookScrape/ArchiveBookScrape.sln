@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiveBookScrape", "ArchiveBookScrape\ArchiveBookScrape.csproj", "{BCB4CAE4-04D3-4DBC-8220-22327216B065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB4CAE4-04D3-4DBC-8220-22327216B065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB4CAE4-04D3-4DBC-8220-22327216B065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB4CAE4-04D3-4DBC-8220-22327216B065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB4CAE4-04D3-4DBC-8220-22327216B065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4293E49-A17A-4E86-AE16-F0782BE28E7C}
+	EndGlobalSection
+EndGlobal
